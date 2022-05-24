@@ -148,10 +148,10 @@ void EepromSettingsStruct::defaults() {
   }
 
   settings.eepromVersionNumber = EEPROM_VERSION_NUMBER;
-  settings.ADCVBATmode = INA219;
+  settings.ADCVBATmode = ADC_CH6;
   settings.RXADCfilter = LPF_20Hz;
-  settings.VBATcalibration = 1;
-  settings.NumReceivers = 6;
+  settings.VBATcalibration = 12;
+  settings.NumReceivers = 2;
   settings.WiFiProtocol = 1;
   settings.WiFiChannel = 1;
 
