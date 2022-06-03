@@ -64,7 +64,7 @@
 //#define USE_ARDUINO_OTA
 
 // Enables multiplexing. This causes the timer to always report 8 possible pilots and the client must support protocol v6
-//#define USE_MULTIPLEXING
+#define USE_MULTIPLEXING
 
 // BELOW ARE THE ADVANCED SETTINGS! ONLY CHANGE THEM IF YOU KNOW WHAT YOUR ARE DOING!
 

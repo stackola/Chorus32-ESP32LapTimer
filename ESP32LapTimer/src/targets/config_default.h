@@ -17,11 +17,6 @@
  */
 #define BEEPER 23
 
-#define LEDs 17
-
-
-#define BUTTON1 T7 // 27
-#define BUTTON2 T4 // 13
 
 #define VRX_SCK 14
 #define VRX_MOSI 12
