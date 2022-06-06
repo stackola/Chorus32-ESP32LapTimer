@@ -574,7 +574,7 @@ void sendAPIversion() {
     addToSendQueue('0');
     addToSendQueue('0');
     addToSendQueue('0');
-    addToSendQueue('6');
+    addToSendQueue('4');
     addToSendQueue('\n');
   }
 }
